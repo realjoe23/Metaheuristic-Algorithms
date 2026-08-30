@@ -1,0 +1,18 @@
+Sphere ----------------------- done
+Rastringin ------------------- done
+Ackley ----------------------- done
+Levy--------------------------
+Schwefel----------------------
+Rotated Hyperellipsoid--------
+Rosenbrock--------------------
+Griewank----------------------
+Perm0bd-----------------------
+Sum of Different Powers-------
+Sum of squares---------------- done
+Trid--------------------------
+Zakharov----------------------
+DixonPrice--------------------
+Michelewicz-------------------
+Permbd------------------------
+Styblinski--------------------
+Bochachevsky------------------
