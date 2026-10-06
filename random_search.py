@@ -30,7 +30,6 @@ def random_search(obj, n_samples, batch_size=None, seed=None):
 
     return best_x, best_f, lotes
 
-
 if __name__ == "__main__":
     from sphere import Sphere  
 
